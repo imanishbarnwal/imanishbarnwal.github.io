@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me 👀
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi this is Manish. I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. I’m currently working on Web Development
+about_me_description: Myself Manish Kumar Barnwal. I'm an Undergraduate engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer, internet surfer 🏄‍♂️ and a self-motivated person with excellent research and communication skills, enthusiasm to learn new things, explore new technologies and always try to do my best in any field, and always tries to be appreciated as well-performed. 🥰 I’m currently working on Web Development.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -42,7 +42,7 @@ about_me_description: Hi this is Manish. I'm an engineering student and a to-be 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Skills 💻
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -50,7 +50,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Education & Experience 👨‍🎓
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://bit.ly/manish-cv
@@ -79,7 +79,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Get In Touch
+contact_title: Get In Touch 📧
 # contact_description: This will be displayed under the title.
 contact_description: You can contact me anywhere in my social media handle given below. I would love to hear from you and gald to colloaborate with you on any type of project.
 
