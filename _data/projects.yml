@@ -1,0 +1,36 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Flower Image Classifier
+  descr: "The goal is to create an image classifier to identify flowers."
+  demo: https://github.com/imanishbarnwal/flower-image-classifier
+  tags:
+    - tag: Pytorch
+    - tag: Python
+    - tag: Jupyter Notebook
+
+- name: Pre-trained Image Classifier to Identify Dog Breeds
+  descr: "Used a created image classifier to identify dog breeds."
+  demo: https://github.com/imanishbarnwal/image-classifier-to-identify-dog-breeds
+  tags:
+    - tag: Python
+    - tag: Pytorch
+
+- name: Twitter Bot
+  descr: "Search, like, follow and retweet based on hashtag or keyword. Can do for multiple keywords, or hashtags. It can be used for automation and marketing purposes."
+  demo: https://twitter.com/mlb0t
+  tags:
+    - tag: Python
+    - tag: Tweepy

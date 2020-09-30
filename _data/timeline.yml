@@ -1,0 +1,63 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: GirlScript Foundation
+  title-url: https://girlscript.tech
+  date: Jul 2020 - Present
+  subtitle: Regional Head (West Bengal)
+  tags:
+    - tag: Management
+    - tag: Team Work
+  timeline-side: left
+
+- title: Sister Nivedita University
+  title-url: https://snuniv.ac.in
+  date: Aug 2020 - Present
+  subtitle: Computer Science & Business Systems
+  timeline-side: right
+
+- title: The Uplift Project
+  title-url: https://upliftproject.tech/#/team
+  date: Mar 2020 - Present
+  subtitle: Co-Lead
+  tags:
+    - tag: Time management
+    - tag: Events
+  timeline-side: left
+
+- title: Udacity
+  title-url: https://graduation.udacity.com/confirm/GMPHMRKA
+  date: Mar 2020 - Jul 2020
+  subtitle: AI Programming with Python, Artificial Intellingence
+  tags:
+    - tag: Python
+    - tag: Pytorch
+    - tag: Numpy
+    - tag: Panda
+  timeline-side: right
+
+- title: GirlScript Technologies PVT. LTD.
+  title-url: https://www.gsyay.com/
+  date: 2014 - 2017
+  subtitle: Student Mentor
+  tags:
+    - tag: WordPress
+    - tag: Digital Marketing
+    - tag: Web Development
+  timeline-side: left
