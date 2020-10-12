@@ -88,12 +88,12 @@ contact_description: You can contact me anywhere in my social media handle given
 # > e.g. <user>/<user>.github.io
 repository: imanishbarnwal/imanishbarnwal.github.io
 projects:
-  # sortby:
+  sortby: time
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
   sort_by: pushed
-  exclude:
-    # archived:
+  exclude: 
+    # archived: 
     # > setting this to true, will exclude archived repositories
     # > setting this to false, will also display archived repositories
     archived: true
@@ -103,6 +103,15 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+    - LearnGit
+    - firstrepo
+    - Awesome-OpenSource
+    - numpy-batman
+    - tetris-game
+    - image-classifier-to-identify-dog-breeds
+    - flower-image-classifier
+
+
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
