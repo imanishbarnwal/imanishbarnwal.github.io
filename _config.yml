@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me 👀
 # about_me_description: This will be displayed under the title.
-about_me_description: Myself Manish Kumar Barnwal. I'm an Undergraduate engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer, internet surfer 🏄‍♂️ and a self-motivated person with excellent research and communication skills, enthusiasm to learn new things, explore new technologies and always try to do my best in any field, and always tries to be appreciated as well-performed. 🥰 I’m currently working on Web Development.
+about_me_description: Myself Manish Kumar Barnwal. I'm an Undergraduate engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer, internet surfer 🏄‍♂️ and a self-motivated person with excellent research and communication skills, enthusiasm to learn new things, explore new technologies and always try to do my best in any field, and always tries to be appreciated as well-performed. 🥰 I’m currently working on Android Development.
 
 # SKILLS SECTION
 # show_skills_card:
