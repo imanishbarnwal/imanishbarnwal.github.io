@@ -53,10 +53,10 @@ or
 git clone https://github.com/{YOUR_USERNAME}/{YOUR_REPOSITORY}.git
 ```
 
-2: Change directory into neumorphism
+2: Change directory into {YOUR_REPOSITORY}
 
 ```sh
-cd neumorphism
+cd {YOUR_REPOSITORY}
 ```
 
 3: Install dependencies
