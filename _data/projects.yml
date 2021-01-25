@@ -21,12 +21,13 @@
     - tag: Python
     - tag: Jupyter Notebook
 
-- name: Pre-trained Image Classifier to Identify Dog Breeds
-  descr: "Used a created image classifier to identify dog breeds."
-  demo: https://github.com/imanishbarnwal/image-classifier-to-identify-dog-breeds
+- name: VR Projects
+  descr: "Web-based AR/VR projects."
+  demo: https://blmvr.netlify.app/blm
   tags:
-    - tag: Python
-    - tag: Pytorch
+    - tag: HTML
+    - tag: CSS
+    - tag: A-Frame
 
 - name: Twitter Bot
   descr: "Search, like, follow and retweet based on hashtag or keyword. Can do for multiple keywords, or hashtags. It can be used for automation and marketing purposes."

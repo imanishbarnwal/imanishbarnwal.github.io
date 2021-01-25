@@ -21,4 +21,7 @@
   weight: 3
 
 - name: C
+  weight: 3
+
+- name: C#
   weight: 2

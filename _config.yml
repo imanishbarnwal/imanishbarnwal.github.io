@@ -110,6 +110,7 @@ projects:
     - tetris-game
     - image-classifier-to-identify-dog-breeds
     - flower-image-classifier
+    - dscwow-article-summarizer
 
 
     # - repo1-to-be-excluded

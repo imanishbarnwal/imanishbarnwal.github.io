@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: GirlScript Foundation
-  title-url: https://girlscript.tech
-  date: Jul 2020 - Present
-  subtitle: Regional Head (West Bengal)
+- title: Microsoft
+  title-url: https://studentambassadors.microsoft.com/en-US/profile/88377
+  date: Jan 2021 - Present
+  subtitle: Microsoft Learn Student Ambassador
   tags:
     - tag: Management
     - tag: Team Work
@@ -32,13 +32,13 @@
   subtitle: BTech in Computer Science & Business Systems
   timeline-side: right
 
-- title: The Uplift Project
-  title-url: https://upliftproject.tech/#/team
-  date: Mar 2020 - Present
-  subtitle: Co-Lead
+- title: GirlScript Foundation
+  title-url: https://girlscript.tech
+  date: Jul 2020 - Present
+  subtitle: Regional Head (West Bengal)
   tags:
-    - tag: Time management
-    - tag: Events
+    - tag: Management
+    - tag: Team Work
   timeline-side: left
 
 - title: Udacity
@@ -52,11 +52,11 @@
     - tag: Panda
   timeline-side: right
 
-- title: GirlScript Technologies PVT. LTD.
-  title-url: https://www.gsyay.com/
-  date: Jul 2020 - Present
-  subtitle: Student Mentor
+- title: The Uplift Project
+  title-url: https://upliftproject.tech/#/team
+  date: Mar 2020 - Present
+  subtitle: Lead
   tags:
-    - tag: WordPress
-    - tag: Digital Marketing
+    - tag: Time management
+    - tag: Events
   timeline-side: left

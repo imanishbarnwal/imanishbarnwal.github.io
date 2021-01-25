@@ -12,7 +12,7 @@
   weight: 4
 
 - name: Linux
-  weight: 3
+  weight: 4
 
 - name: Chrome DevTools
   weight: 2
