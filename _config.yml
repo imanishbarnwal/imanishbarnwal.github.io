@@ -111,6 +111,11 @@ projects:
     - image-classifier-to-identify-dog-breeds
     - flower-image-classifier
     - dscwow-article-summarizer
+    - Mean-Normalization-and-Data-Separation
+    - Statistics-From-Stock-Data
+    - board-game-review-prediction
+    
+
 
 
     # - repo1-to-be-excluded
