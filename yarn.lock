@@ -1236,7 +1236,7 @@ engine.io-client@~3.2.0:
     parseqs "0.0.5"
     parseuri "0.0.5"
     ws "~3.3.1"
-    xmlhttprequest-ssl "~1.5.4"
+    xmlhttprequest-ssl "~1.6.2"
     yeast "0.1.2"
 
 engine.io-client@~3.4.0:
@@ -1253,7 +1253,7 @@ engine.io-client@~3.4.0:
     parseqs "0.0.5"
     parseuri "0.0.5"
     ws "~6.1.0"
-    xmlhttprequest-ssl "~1.5.4"
+    xmlhttprequest-ssl "~1.6.2"
     yeast "0.1.2"
 
 engine.io-parser@~2.1.0, engine.io-parser@~2.1.1:
@@ -4869,9 +4869,9 @@ ws@~6.1.0:
   dependencies:
     async-limiter "~1.0.0"
 
-xmlhttprequest-ssl@~1.5.4:
+xmlhttprequest-ssl@~1.6.2:
   version "1.5.5"
-  resolved "https://registry.yarnpkg.com/xmlhttprequest-ssl/-/xmlhttprequest-ssl-1.5.5.tgz#c2876b06168aadc40e57d97e81191ac8f4398b3e"
+  resolved "https://registry.yarnpkg.com/xmlhttprequest-ssl/-/xmlhttprequest-ssl-1.6.2.tgz#c2876b06168aadc40e57d97e81191ac8f4398b3e"
   integrity sha1-wodrBhaKrcQOV9l+gRkayPQ5iz4=
 
 xtend@~4.0.0, xtend@~4.0.1:
