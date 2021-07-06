@@ -13,21 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Flower Image Classifier
-  descr: "The goal is to create an image classifier to identify flowers."
-  demo: https://github.com/imanishbarnwal/flower-image-classifier
-  tags:
-    - tag: Pytorch
-    - tag: Python
-    - tag: Jupyter Notebook
-
-- name: VR Projects
-  descr: "Web-based AR/VR projects."
-  demo: https://blmvr.netlify.app/blm
+- name: CovidOff
+  descr: "Built a full stack responsive website to help with Covid Leads and used
+Streamlit, gspread-data frame, oauth2client along with Google Sheets API to
+build a Python Web Application forthe real-time database."
+  demo: https://covidoff.live
   tags:
     - tag: HTML
     - tag: CSS
-    - tag: A-Frame
+    - tag: Javascript
+    - tag: Google Drive API
+    - tag: Python
+    - tag: Streamlit
+
+- name: Qwiklabs Progress Generator
+  descr: "A Python application developed with Streamlit to generate the real-time
+progress and Quest and SkillBadge statistics for the Participants enrolled in
+#GoogleCloudReady Program, even the registered participants could generate their badges. Being used by 1000+ participants enrolled."
+  demo: https://bit.ly/qwiklabs-progress
+  tags:
+    - tag: Python
+    - tag: Streamlit
+    - tag: Heroku
 
 - name: Twitter Bot
   descr: "Search, like, follow and retweet based on hashtag or keyword. Can do for multiple keywords, or hashtags. It can be used for automation and marketing purposes."
@@ -35,3 +42,11 @@
   tags:
     - tag: Python
     - tag: Tweepy
+
+- name: Flower Image Classifier
+  descr: "The goal is to create an image classifier to identify flowers."
+  demo: https://github.com/imanishbarnwal/flower-image-classifier
+  tags:
+    - tag: Pytorch
+    - tag: Python
+    - tag: Jupyter Notebook

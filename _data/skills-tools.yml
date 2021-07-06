@@ -8,6 +8,9 @@
 - name: Git
   weight: 5
 
+- name: GitHub
+  weight: 5
+
 - name: Bash
   weight: 4
 
@@ -22,3 +25,9 @@
 
 - name: VS Code
   weight: 3
+
+- name: Unity
+  weight: 3
+
+- name: WordPress
+  weight: 4
