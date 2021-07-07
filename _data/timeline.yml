@@ -85,10 +85,11 @@
   timeline-side: right
 
 - title: The Uplift Project
-  title-url: https://upliftproject.tech/#/team
+  title-url: https://uplift.girlscript.tech/team
   date: Mar 2020 - Present
   subtitle: Project Lead
   tags:
-    - tag: Time management
+    - tag: Team management
     - tag: Events
+    - tag: Community
   timeline-side: left
