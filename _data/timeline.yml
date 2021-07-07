@@ -26,16 +26,26 @@
     - tag: Opensource
     - tag: Documentation
     - tag: Confluence
-  timeline-side: left
+  timeline-side: right
 
 - title: Gururgram Police
-  title-url: https://studentambassadors.microsoft.com/en-US/profile/88377
+  # title-url: https://studentambassadors.microsoft.com/en-US/profile/88377
   date: Jun 2021 - Present
   subtitle: Cyber Security Intern
   tags:
     - tag: Cyber Security
     - tag: Ethical Hacking
     - tag: Forensics
+  timeline-side: left
+
+- title: Google
+  title-url: https://drive.google.com/file/d/1f7NxoXJ22WWwCsLZDgsfZOWVTVj97JPB/view?usp=sharing
+  date: Mar 2021 - Jun 2021
+  subtitle: Google Cloud Ready Facilitator
+  tags:
+    - tag: GCP
+    - tag: Qwiklabs
+    - tag: Cloud Computing
   timeline-side: right
 
 - title: Microsoft
